@@ -1,0 +1,8 @@
+{
+  "name": "QuizCast Pro",
+  "description": "A professional quiz orchestration system designed for dual-screen experiences. Manage questions on your device and cast a beautiful, animated presentation view to a smart TV or second monitor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
